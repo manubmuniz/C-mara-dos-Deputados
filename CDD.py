@@ -1,2 +1,2 @@
-import streamlit on st
+import streamlit as st
 st.title('Título provisório')
